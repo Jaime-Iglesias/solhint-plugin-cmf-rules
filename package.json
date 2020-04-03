@@ -1,0 +1,19 @@
+{
+  "name": "solhint-plugin-cmf-rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaime-Iglesias/solhint-plugin-cmf-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaime-Iglesias/solhint-plugin-cmf-rules/issues"
+  },
+  "homepage": "https://github.com/Jaime-Iglesias/solhint-plugin-cmf-rules#readme"
+}
