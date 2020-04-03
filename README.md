@@ -1,5 +1,6 @@
 # solhint-plugin-cmf-rules
 
+Notice that this plugin will only work with `solhint v3.0.0`, there is currently a pre-release that you can install with `npm i solhint@next`
 To use these rules with your solhint build simply `npm i solhint-plugin-cmf-rules` into your repository
 
 if you don't have a `.solhint.json` then execute `npx solhint init-config` and fill that file with the following:
